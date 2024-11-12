@@ -1,15 +1,19 @@
+# This project was upgraded with external_updater.
+# Usage: tools/external_updater/updater.sh update external/subsampling-scale-image-view
+# For more info, check https://cs.android.com/android/platform/superproject/main/+/main:tools/external_updater/README.md
+
 name: "subsampling-scale-image-view"
 description: "Android library (AAR). Highly configurable, easily extendable deep zoom view for displaying huge images without loss of detail. Perfect for photo galleries, maps, building plans etc."
 third_party {
   license_type: NOTICE
   last_upgrade_date {
-    year: 2018
-    month: 2
-    day: 7
+    year: 2024
+    month: 11
+    day: 8
   }
   identifier {
     type: "Git"
     value: "https://github.com/davemorrissey/subsampling-scale-image-view"
-    version: "cb93ba0b35cf4c48f86a8d0af599b8baaf008973"
+    version: "v3.10.0"
   }
 }
