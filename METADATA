@@ -14,6 +14,7 @@ third_party {
   identifier {
     type: "Git"
     value: "https://github.com/davemorrissey/subsampling-scale-image-view"
-    version: "v3.10.0"
+    version: "b61c59eb6681f53a412db42aa62d401973c6abcc"
+    closest_version: "v3.10.0"
   }
 }
